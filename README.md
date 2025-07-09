@@ -28,7 +28,7 @@ Using a projected annual growth rate of 12%, future sales for 2026 were estimate
 
 Project Structure  
 Chocolate_Sales_Analysis/  
-├──FINAL_PROJECT_Chocolate_sales_20250620.ipynb     # Jupyter Notebook with analysis and visualizations  
+├──FINAL_PROJECT__Chocolate_sales_20250620.ipynb     # Jupyter Notebook with analysis and visualizations  
 ├── data/  
 │   └── Chocolate_Sales.csv            # Raw dataset  
 │   └── Mental health Depression disorder Data.csv    # Raw dataset  
