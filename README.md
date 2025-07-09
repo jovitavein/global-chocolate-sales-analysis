@@ -41,7 +41,6 @@ git clone https://github.com/jovitavein/global-chocolate-sales-analysis.git
 Open the .ipynb notebook in JupyterLab or VS Code  
 
 Run all cells and explore the insights  
-![image](https://github.com/user-attachments/assets/1e92b39b-e4f1-4192-8d4f-f1d301ab4871)
 
 Thank you for using this project!  
 Your feedback and contributions are welcome.  
