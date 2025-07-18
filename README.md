@@ -1,7 +1,7 @@
 Global Chocolate Sales Analysis (January 3 – August 31, 2022)  
 
 Project Overview  
-This project analyzes chocolate sales data from January 3 to August 31, 2022. The goal is to explore factors that influence chocolate sales, identify potential new markets, and forecast future profit opportunities based on historical data.  
+The project analyzes chocolate sales data from January 3 to August 31, 2022. The goal is to explore factors that influence chocolate sales, identify potential new markets, and forecast future profit opportunities based on historical data.  
 
 Objectives  
 -Analyze total sales and product popularity  
